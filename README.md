@@ -1,4 +1,4 @@
-# Supplementary-data-for-Binding-of-regulatory-proteins-to-nucleosomes-is-modulated-by-dynamic-histon
+# Supplementary-data-for-Binding-of-regulatory-proteins-to-nucleosomes-is-modulated-by-dynamic-histone-tails-Peng-et-al-2021
 This repository contains supplementary data for "Binding of regulatory proteins to nucleosomes is modulated by dynamic histone tails" by Peng al.
 
 You can browse the following folders:
