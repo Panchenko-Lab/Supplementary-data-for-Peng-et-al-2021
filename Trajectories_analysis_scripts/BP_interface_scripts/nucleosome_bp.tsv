@@ -1,0 +1,658 @@
+nucleosome	q9dum3	Latent nuclear antigen	1zla	K
+nucleosome	p25171	Regulator of chromosome condensation	3mvd	K
+nucleosome	p25171	Regulator of chromosome condensation	3mvd	L
+nucleosome	p06701	Regulatory protein SIR3	3tu4	K
+nucleosome	p06701	Regulatory protein SIR3	3tu4	L
+nucleosome	p06701	Regulatory protein SIR3	4jjn	K
+nucleosome	p06701	Regulatory protein SIR3	4jjn	L
+nucleosome	p06701	Regulatory protein SIR3	4kud	K
+nucleosome	p06701	Regulatory protein SIR3	4kud	L
+nucleosome	p06701	Regulatory protein SIR3	4ld9	K
+nucleosome	p06701	Regulatory protein SIR3	4ld9	L
+nucleosome	p35226	Polycomb complex protein BMI-1	4r8p	K
+nucleosome	p35226	Polycomb complex protein BMI-1	4r8p	M
+nucleosome	q99496;p61077	E3 ubiquitin-protein ligase RING2	4r8p	L
+nucleosome	q99496;p61077	E3 ubiquitin-protein ligase RING2	4r8p	N
+nucleosome	q66lh7	CENP-C	4x23	V
+nucleosome	q66lh7	CENP-C	4x23	U
+nucleosome	p50102	Ubiquitin carboxyl-terminal hydrolase 8	4zux	U
+nucleosome	p50102	Ubiquitin carboxyl-terminal hydrolase 8	4zux	Z
+nucleosome	q6wnk7	Transcription and mRNA export factor SUS1	4zux	V
+nucleosome	q6wnk7	Transcription and mRNA export factor SUS1	4zux	a
+nucleosome	q03067	SAGA-associated factor 11	4zux	W
+nucleosome	q03067	SAGA-associated factor 11	4zux	b
+nucleosome	p0cg47	Polyubiquitin-B	4zux	X
+nucleosome	p0cg47	Polyubiquitin-B	4zux	c
+nucleosome	p53165	SAGA-associated factor 73	4zux	Y
+nucleosome	p53165	SAGA-associated factor 73	4zux	d
+nucleosome	p03169	55 kDa immediate-early protein 1	5e5a	K
+nucleosome	q9qr71	Protein LANA1	5gtc	K
+nucleosome	p21827	Guanine nucleotide exchange factor SRM1	5hq2	K
+nucleosome	q9nqr1	N-lysine methyltransferase KMT5A	5hq2	M
+nucleosome	q12888	TP53-binding protein 1	5kgf	L
+nucleosome	q12888	TP53-binding protein 1	5kgf	K
+nucleosome	p0cg47	Polyubiquitin-B	5kgf	O
+nucleosome	p0cg47	Polyubiquitin-B	5kgf	M
+nucleosome	p14349	Gag polyprotein	5mlu	M
+nucleosome	p32657	Chromo domain-containing protein 1	5o9g	W
+nucleosome	p22082	Transcription regulatory protein SNF2	5x0x	O
+nucleosome	p22082	Transcription regulatory protein SNF2	5x0y	O
+nucleosome	p22082	Transcription regulatory protein SNF2	5z3l	O
+nucleosome	p22082	Transcription regulatory protein SNF2	5z3o	O
+nucleosome	p22082	Transcription regulatory protein SNF2	5z3u	O
+nucleosome	p22082	Transcription regulatory protein SNF2	5z3v	O
+nucleosome	c4r4y0	DNA-directed RNA polymerase subunit	6a5l	A
+nucleosome	c4qzq7	DNA-directed RNA polymerase subunit beta	6a5l	B
+nucleosome	c4r7l2	RNA polymerase II third largest subunit B44, part of central core	6a5l	C
+nucleosome	c4r2u9	RNA polymerase II subunit B32	6a5l	D
+nucleosome	c4r3p8	DNA-directed RNA polymerases I, II, and III subunit RPABC1	6a5l	E
+nucleosome	c4r1v1	RNA polymerase subunit ABC23, common to RNA polymerases I, II, and III	6a5l	F
+nucleosome	c4r9a1	RNA polymerase II subunit	6a5l	G
+nucleosome	c4r273	DNA-directed RNA polymerases I, II, and III subunit RPABC3	6a5l	H
+nucleosome	f2qpe6	DNA-directed RNA polymerase subunit	6a5l	I
+nucleosome	c4r009	RNA polymerase subunit ABC10-beta, common to RNA polymerases I, II, and III	6a5l	J
+nucleosome	c4r3z5	RNA polymerase II subunit B12.5	6a5l	K
+nucleosome	f2qmi1	RNA polymerase subunit ABC10-alpha	6a5l	L
+nucleosome	c4r4y0	DNA-directed RNA polymerase subunit	6a5o	A
+nucleosome	c4qzq7	DNA-directed RNA polymerase subunit beta	6a5o	B
+nucleosome	c4r7l2	RNA polymerase II third largest subunit B44, part of central core	6a5o	C
+nucleosome	c4r2u9	RNA polymerase II subunit B32	6a5o	D
+nucleosome	c4r3p8	DNA-directed RNA polymerases I, II, and III subunit RPABC1	6a5o	E
+nucleosome	c4r1v1	RNA polymerase subunit ABC23, common to RNA polymerases I, II, and III	6a5o	F
+nucleosome	c4r9a1	RNA polymerase II subunit	6a5o	G
+nucleosome	c4r273	DNA-directed RNA polymerases I, II, and III subunit RPABC3	6a5o	H
+nucleosome	f2qpe6	DNA-directed RNA polymerase subunit	6a5o	I
+nucleosome	c4r009	RNA polymerase subunit ABC10-beta, common to RNA polymerases I, II, and III	6a5o	J
+nucleosome	c4r3z5	RNA polymerase II subunit B12.5	6a5o	K
+nucleosome	f2qmi1	RNA polymerase subunit ABC10-alpha	6a5o	L
+nucleosome	c4r4y0	DNA-directed RNA polymerase subunit	6a5p	A
+nucleosome	c4qzq7	DNA-directed RNA polymerase subunit beta	6a5p	B
+nucleosome	c4r7l2	RNA polymerase II third largest subunit B44, part of central core	6a5p	C
+nucleosome	c4r2u9	RNA polymerase II subunit B32	6a5p	D
+nucleosome	c4r3p8	DNA-directed RNA polymerases I, II, and III subunit RPABC1	6a5p	E
+nucleosome	c4r1v1	RNA polymerase subunit ABC23, common to RNA polymerases I, II, and III	6a5p	F
+nucleosome	c4r9a1	RNA polymerase II subunit	6a5p	G
+nucleosome	c4r273	DNA-directed RNA polymerases I, II, and III subunit RPABC3	6a5p	H
+nucleosome	f2qpe6	DNA-directed RNA polymerase subunit	6a5p	I
+nucleosome	c4r009	RNA polymerase subunit ABC10-beta, common to RNA polymerases I, II, and III	6a5p	J
+nucleosome	c4r3z5	RNA polymerase II subunit B12.5	6a5p	K
+nucleosome	f2qmi1	RNA polymerase subunit ABC10-alpha	6a5p	L
+nucleosome	c4r4y0	DNA-directed RNA polymerase subunit	6a5r	A
+nucleosome	c4qzq7	DNA-directed RNA polymerase subunit beta	6a5r	B
+nucleosome	c4r7l2	RNA polymerase II third largest subunit B44, part of central core	6a5r	C
+nucleosome	c4r2u9	RNA polymerase II subunit B32	6a5r	D
+nucleosome	c4r3p8	DNA-directed RNA polymerases I, II, and III subunit RPABC1	6a5r	E
+nucleosome	c4r1v1	RNA polymerase subunit ABC23, common to RNA polymerases I, II, and III	6a5r	F
+nucleosome	c4r9a1	RNA polymerase II subunit	6a5r	G
+nucleosome	c4r273	DNA-directed RNA polymerases I, II, and III subunit RPABC3	6a5r	H
+nucleosome	f2qpe6	DNA-directed RNA polymerase subunit	6a5r	I
+nucleosome	c4r009	RNA polymerase subunit ABC10-beta, common to RNA polymerases I, II, and III	6a5r	J
+nucleosome	c4r3z5	RNA polymerase II subunit B12.5	6a5r	K
+nucleosome	f2qmi1	RNA polymerase subunit ABC10-alpha	6a5r	L
+nucleosome	c4r4y0	DNA-directed RNA polymerase subunit	6a5t	A
+nucleosome	c4qzq7	DNA-directed RNA polymerase subunit beta	6a5t	B
+nucleosome	c4r7l2	RNA polymerase II third largest subunit B44, part of central core	6a5t	C
+nucleosome	c4r2u9	RNA polymerase II subunit B32	6a5t	D
+nucleosome	c4r3p8	DNA-directed RNA polymerases I, II, and III subunit RPABC1	6a5t	E
+nucleosome	c4r1v1	RNA polymerase subunit ABC23, common to RNA polymerases I, II, and III	6a5t	F
+nucleosome	c4r9a1	RNA polymerase II subunit	6a5t	G
+nucleosome	c4r273	DNA-directed RNA polymerases I, II, and III subunit RPABC3	6a5t	H
+nucleosome	f2qpe6	DNA-directed RNA polymerase subunit	6a5t	I
+nucleosome	c4r009	RNA polymerase subunit ABC10-beta, common to RNA polymerases I, II, and III	6a5t	J
+nucleosome	c4r3z5	RNA polymerase II subunit B12.5	6a5t	K
+nucleosome	f2qmi1	RNA polymerase subunit ABC10-alpha	6a5t	L
+nucleosome	c4r4y0	DNA-directed RNA polymerase subunit	6a5u	A
+nucleosome	c4qzq7	DNA-directed RNA polymerase subunit beta	6a5u	B
+nucleosome	c4r7l2	RNA polymerase II third largest subunit B44, part of central core	6a5u	C
+nucleosome	c4r2u9	RNA polymerase II subunit B32	6a5u	D
+nucleosome	c4r3p8	DNA-directed RNA polymerases I, II, and III subunit RPABC1	6a5u	E
+nucleosome	c4r1v1	RNA polymerase subunit ABC23, common to RNA polymerases I, II, and III	6a5u	F
+nucleosome	c4r9a1	RNA polymerase II subunit	6a5u	G
+nucleosome	c4r273	DNA-directed RNA polymerases I, II, and III subunit RPABC3	6a5u	H
+nucleosome	f2qpe6	DNA-directed RNA polymerase subunit	6a5u	I
+nucleosome	c4r009	RNA polymerase subunit ABC10-beta, common to RNA polymerases I, II, and III	6a5u	J
+nucleosome	c4r3z5	RNA polymerase II subunit B12.5	6a5u	K
+nucleosome	f2qmi1	RNA polymerase subunit ABC10-alpha	6a5u	L
+nucleosome	p0aey0;q96h22	Maltose/maltodextrin-binding periplasmic protein	6buz	N
+nucleosome	q96h22	Centromere protein N	6c0w	K
+nucleosome	na	scFv	6dzt	M
+nucleosome	na	scFv	6dzt	N
+nucleosome	na	scFv	6e0c	M
+nucleosome	na	scFv	6e0c	N
+nucleosome	na	scFv	6e0p	M
+nucleosome	na	scFv	6e0p	N
+nucleosome	g0ryi5	RuvB-like helicase	6fml	A
+nucleosome	g0ryi5	RuvB-like helicase	6fml	B
+nucleosome	g0ryi5	RuvB-like helicase	6fml	C
+nucleosome	g0ryc2	RuvB-like helicase	6fml	D
+nucleosome	g0ryc2	RuvB-like helicase	6fml	E
+nucleosome	g0ryc2	RuvB-like helicase	6fml	F
+nucleosome	na	Ino80	6fml	G
+nucleosome	g0ry01	PAPA-1 domain-containing protein	6fml	H
+nucleosome	g0s590	YL1_C domain-containing protein	6fml	I
+nucleosome	g0s589	DASH complex subunit DAD4	6fml	J
+nucleosome	s4raz3	Histone domain-containing protein	6ftx	A
+nucleosome	p0cg47	Polyubiquitin-B	6ftx	N
+nucleosome	p0cg47	Polyubiquitin-B	6ftx	O
+nucleosome	p32657	Chromo domain-containing protein 1	6ftx	W
+nucleosome	p32657	Chromo domain-containing protein 1	6g0l	M
+nucleosome	p32657	Chromo domain-containing protein 1	6g0l	W
+nucleosome	na	Vacuolar protein sorting-associated protein 72	6gej	Z
+nucleosome	q05471	Helicase SWR1	6gej	M
+nucleosome	q12509	Actin-like protein ARP6	6gej	R
+nucleosome	q03433	Vacuolar protein sorting-associated protein 71	6gej	S
+nucleosome	q03940	RuvB-like protein 1	6gej	T
+nucleosome	q03940	RuvB-like protein 1	6gej	V
+nucleosome	q03940	RuvB-like protein 1	6gej	X
+nucleosome	q12464	RuvB-like protein 2	6gej	U
+nucleosome	q12464	RuvB-like protein 2	6gej	W
+nucleosome	q12464	RuvB-like protein 2	6gej	Y
+nucleosome	na	Vacuolar protein sorting-associated protein 72	6gen	Z
+nucleosome	q05471	Helicase SWR1	6gen	M
+nucleosome	q12509	Actin-like protein ARP6	6gen	R
+nucleosome	q03433	Vacuolar protein sorting-associated protein 71	6gen	S
+nucleosome	q03940	RuvB-like protein 1	6gen	T
+nucleosome	q03940	RuvB-like protein 1	6gen	V
+nucleosome	q03940	RuvB-like protein 1	6gen	X
+nucleosome	q12464	RuvB-like protein 2	6gen	U
+nucleosome	q12464	RuvB-like protein 2	6gen	W
+nucleosome	q12464	RuvB-like protein 2	6gen	Y
+nucleosome	q9y265	RuvB-like 1	6hts	A
+nucleosome	q9y265	RuvB-like 1	6hts	C
+nucleosome	q9y265	RuvB-like 1	6hts	E
+nucleosome	q9y230	RuvB-like 2	6hts	B
+nucleosome	q9y230	RuvB-like 2	6hts	D
+nucleosome	q9y230	RuvB-like 2	6hts	F
+nucleosome	q9ulg1	Chromatin-remodeling ATPase INO80	6hts	G
+nucleosome	q9h9f9	Actin-related protein 5	6hts	H
+nucleosome	q9c086	INO80 complex subunit B	6hts	R
+nucleosome	p04050	DNA-directed RNA polymerase II subunit RPB1	6i84	A
+nucleosome	p08518	DNA-directed RNA polymerase II subunit RPB2	6i84	B
+nucleosome	p16370	DNA-directed RNA polymerase II subunit RPB3	6i84	C
+nucleosome	p20433	DNA-directed RNA polymerase II subunit RPB4	6i84	D
+nucleosome	p20434	DNA-directed RNA polymerases I, II, and III subunit RPABC1	6i84	E
+nucleosome	p20435	DNA-directed RNA polymerases I, II, and III subunit RPABC2	6i84	F
+nucleosome	p34087	DNA-directed RNA polymerase II subunit RPB7	6i84	G
+nucleosome	p20436	DNA-directed RNA polymerases I, II, and III subunit RPABC3	6i84	H
+nucleosome	p27999	DNA-directed RNA polymerase II subunit RPB9	6i84	I
+nucleosome	p22139	DNA-directed RNA polymerases I, II, and III subunit RPABC5	6i84	J
+nucleosome	p38902	DNA-directed RNA polymerase II subunit RPB11	6i84	K
+nucleosome	p40422	DNA-directed RNA polymerases I, II, and III subunit RPABC4	6i84	L
+nucleosome	c4r4y0	DNA-directed RNA polymerase subunit	6inq	A
+nucleosome	c4qzq7	DNA-directed RNA polymerase subunit beta	6inq	B
+nucleosome	c4r7l2	RNA polymerase II third largest subunit B44, part of central core	6inq	C
+nucleosome	c4r2u9	RNA polymerase II subunit B32	6inq	D
+nucleosome	c4r3p8	DNA-directed RNA polymerases I, II, and III subunit RPABC1	6inq	E
+nucleosome	c4r1v1	RNA polymerase subunit ABC23, common to RNA polymerases I, II, and III	6inq	F
+nucleosome	c4r9a1	RNA polymerase II subunit	6inq	G
+nucleosome	c4r273	DNA-directed RNA polymerases I, II, and III subunit RPABC3	6inq	H
+nucleosome	f2qpe6	DNA-directed RNA polymerase subunit	6inq	I
+nucleosome	c4r009	RNA polymerase subunit ABC10-beta, common to RNA polymerases I, II, and III	6inq	J
+nucleosome	c4r3z5	RNA polymerase II subunit B12.5	6inq	K
+nucleosome	f2qmi1	RNA polymerase subunit ABC10-alpha	6inq	L
+nucleosome	c4r4y0	DNA-directed RNA polymerase subunit	6ir9	A
+nucleosome	c4qzq7	DNA-directed RNA polymerase subunit beta	6ir9	B
+nucleosome	c4r7l2	RNA polymerase II third largest subunit B44, part of central core	6ir9	C
+nucleosome	c4r2u9	RNA polymerase II subunit B32	6ir9	D
+nucleosome	c4r3p8	DNA-directed RNA polymerases I, II, and III subunit RPABC1	6ir9	E
+nucleosome	c4r1v1	RNA polymerase subunit ABC23, common to RNA polymerases I, II, and III	6ir9	F
+nucleosome	c4r9a1	RNA polymerase II subunit	6ir9	G
+nucleosome	c4r273	DNA-directed RNA polymerases I, II, and III subunit RPABC3	6ir9	H
+nucleosome	f2qpe6	DNA-directed RNA polymerase subunit	6ir9	I
+nucleosome	c4r009	RNA polymerase subunit ABC10-beta, common to RNA polymerases I, II, and III	6ir9	J
+nucleosome	c4r3z5	RNA polymerase II subunit B12.5	6ir9	K
+nucleosome	f2qmi1	RNA polymerase subunit ABC10-alpha	6ir9	L
+nucleosome	c4qz45	Transcription elongation factor 1 homolog	6ir9	M
+nucleosome	c4r0e6	Transcription elongation factor SPT4	6ir9	V
+nucleosome	c4r370	Chromatin elongation factor SPT5	6ir9	W
+nucleosome	p38144	ISWI chromatin-remodeling complex ATPase ISW1	6iro	L
+nucleosome	p22082	Transcription regulatory protein SNF2	6iy2	O
+nucleosome	p22082	Transcription regulatory protein SNF2	6iy3	O
+nucleosome	c4r4y0	DNA-directed RNA polymerase subunit	6j4w	A
+nucleosome	c4qzq7	DNA-directed RNA polymerase subunit beta	6j4w	B
+nucleosome	c4r7l2	RNA polymerase II third largest subunit B44, part of central core	6j4w	C
+nucleosome	c4r2u9	RNA polymerase II subunit B32	6j4w	D
+nucleosome	c4r3p8	DNA-directed RNA polymerases I, II, and III subunit RPABC1	6j4w	E
+nucleosome	c4r1v1	RNA polymerase subunit ABC23, common to RNA polymerases I, II, and III	6j4w	F
+nucleosome	c4r9a1	RNA polymerase II subunit	6j4w	G
+nucleosome	c4r273	DNA-directed RNA polymerases I, II, and III subunit RPABC3	6j4w	H
+nucleosome	f2qpe6	DNA-directed RNA polymerase subunit	6j4w	I
+nucleosome	f2qtn1	RNA polymerase subunit ABC10-beta	6j4w	J
+nucleosome	c4r3z5	RNA polymerase II subunit B12.5	6j4w	K
+nucleosome	f2qmi1	RNA polymerase subunit ABC10-alpha	6j4w	L
+nucleosome	c4qz45	Transcription elongation factor 1 homolog	6j4w	M
+nucleosome	c4r0e6	Transcription elongation factor SPT4	6j4w	V
+nucleosome	c4r370	Chromatin elongation factor SPT5	6j4w	W
+nucleosome	c4r4y0	DNA-directed RNA polymerase subunit	6j4x	A
+nucleosome	c4qzq7	DNA-directed RNA polymerase subunit beta	6j4x	B
+nucleosome	c4r7l2	RNA polymerase II third largest subunit B44, part of central core	6j4x	C
+nucleosome	c4r2u9	RNA polymerase II subunit B32	6j4x	D
+nucleosome	c4r3p8	DNA-directed RNA polymerases I, II, and III subunit RPABC1	6j4x	E
+nucleosome	c4r1v1	RNA polymerase subunit ABC23, common to RNA polymerases I, II, and III	6j4x	F
+nucleosome	c4r9a1	RNA polymerase II subunit	6j4x	G
+nucleosome	c4r273	DNA-directed RNA polymerases I, II, and III subunit RPABC3	6j4x	H
+nucleosome	f2qpe6	DNA-directed RNA polymerase subunit	6j4x	I
+nucleosome	c4r009	RNA polymerase subunit ABC10-beta, common to RNA polymerases I, II, and III	6j4x	J
+nucleosome	c4r3z5	RNA polymerase II subunit B12.5	6j4x	K
+nucleosome	f2qmi1	RNA polymerase subunit ABC10-alpha	6j4x	L
+nucleosome	c4qz45	Transcription elongation factor 1 homolog	6j4x	M
+nucleosome	c4r0e6	Transcription elongation factor SPT4	6j4x	V
+nucleosome	c4r370	Chromatin elongation factor SPT5	6j4x	W
+nucleosome	c4r4y0	DNA-directed RNA polymerase subunit	6j4y	A
+nucleosome	c4qzq7	DNA-directed RNA polymerase subunit beta	6j4y	B
+nucleosome	c4r7l2	RNA polymerase II third largest subunit B44, part of central core	6j4y	C
+nucleosome	c4r2u9	RNA polymerase II subunit B32	6j4y	D
+nucleosome	c4r3p8	DNA-directed RNA polymerases I, II, and III subunit RPABC1	6j4y	E
+nucleosome	c4r1v1	RNA polymerase subunit ABC23, common to RNA polymerases I, II, and III	6j4y	F
+nucleosome	c4r9a1	RNA polymerase II subunit	6j4y	G
+nucleosome	c4r273	DNA-directed RNA polymerases I, II, and III subunit RPABC3	6j4y	H
+nucleosome	f2qpe6	DNA-directed RNA polymerase subunit	6j4y	I
+nucleosome	c4r009	RNA polymerase subunit ABC10-beta, common to RNA polymerases I, II, and III	6j4y	J
+nucleosome	c4r3z5	RNA polymerase II subunit B12.5	6j4y	K
+nucleosome	f2qmi1	RNA polymerase subunit ABC10-alpha	6j4y	L
+nucleosome	c4qz45	Transcription elongation factor 1 homolog	6j4y	M
+nucleosome	c4r0e6	Transcription elongation factor SPT4	6j4y	V
+nucleosome	c4r370	Chromatin elongation factor SPT5	6j4y	W
+nucleosome	c4r4y0	DNA-directed RNA polymerase subunit	6j4z	A
+nucleosome	c4qzq7	DNA-directed RNA polymerase subunit beta	6j4z	B
+nucleosome	c4r7l2	RNA polymerase II third largest subunit B44, part of central core	6j4z	C
+nucleosome	c4r2u9	RNA polymerase II subunit B32	6j4z	D
+nucleosome	c4r3p8	DNA-directed RNA polymerases I, II, and III subunit RPABC1	6j4z	E
+nucleosome	c4r1v1	RNA polymerase subunit ABC23, common to RNA polymerases I, II, and III	6j4z	F
+nucleosome	c4r9a1	RNA polymerase II subunit	6j4z	G
+nucleosome	c4r273	DNA-directed RNA polymerases I, II, and III subunit RPABC3	6j4z	H
+nucleosome	f2qpe6	DNA-directed RNA polymerase subunit	6j4z	I
+nucleosome	c4r009	RNA polymerase subunit ABC10-beta, common to RNA polymerases I, II, and III	6j4z	J
+nucleosome	c4r3z5	RNA polymerase II subunit B12.5	6j4z	K
+nucleosome	f2qmi1	RNA polymerase subunit ABC10-alpha	6j4z	L
+nucleosome	c4r0e6	Transcription elongation factor SPT4	6j4z	V
+nucleosome	c4r370	Chromatin elongation factor SPT5	6j4z	W
+nucleosome	c4r4y0	DNA-directed RNA polymerase subunit	6j50	A
+nucleosome	c4qzq7	DNA-directed RNA polymerase subunit beta	6j50	B
+nucleosome	c4r7l2	RNA polymerase II third largest subunit B44, part of central core	6j50	C
+nucleosome	c4r2u9	RNA polymerase II subunit B32	6j50	D
+nucleosome	c4r3p8	DNA-directed RNA polymerases I, II, and III subunit RPABC1	6j50	E
+nucleosome	c4r1v1	RNA polymerase subunit ABC23, common to RNA polymerases I, II, and III	6j50	F
+nucleosome	c4r9a1	RNA polymerase II subunit	6j50	G
+nucleosome	c4r273	DNA-directed RNA polymerases I, II, and III subunit RPABC3	6j50	H
+nucleosome	f2qpe6	DNA-directed RNA polymerase subunit	6j50	I
+nucleosome	c4r009	RNA polymerase subunit ABC10-beta, common to RNA polymerases I, II, and III	6j50	J
+nucleosome	c4r3z5	RNA polymerase II subunit B12.5	6j50	K
+nucleosome	f2qmi1	RNA polymerase subunit ABC10-alpha	6j50	L
+nucleosome	c4r0e6	Transcription elongation factor SPT4	6j50	V
+nucleosome	c4r370	Chromatin elongation factor SPT5	6j50	W
+nucleosome	c4r4y0	DNA-directed RNA polymerase subunit	6j51	A
+nucleosome	c4qzq7	DNA-directed RNA polymerase subunit beta	6j51	B
+nucleosome	c4r7l2	RNA polymerase II third largest subunit B44, part of central core	6j51	C
+nucleosome	c4r2u9	RNA polymerase II subunit B32	6j51	D
+nucleosome	c4r3p8	DNA-directed RNA polymerases I, II, and III subunit RPABC1	6j51	E
+nucleosome	c4r1v1	RNA polymerase subunit ABC23, common to RNA polymerases I, II, and III	6j51	F
+nucleosome	c4r9a1	RNA polymerase II subunit	6j51	G
+nucleosome	c4r273	DNA-directed RNA polymerases I, II, and III subunit RPABC3	6j51	H
+nucleosome	f2qpe6	DNA-directed RNA polymerase subunit	6j51	I
+nucleosome	c4r009	RNA polymerase subunit ABC10-beta, common to RNA polymerases I, II, and III	6j51	J
+nucleosome	c4r3z5	RNA polymerase II subunit B12.5	6j51	K
+nucleosome	f2qmi1	RNA polymerase subunit ABC10-alpha	6j51	L
+nucleosome	c4qz45	Transcription elongation factor 1 homolog	6j51	M
+nucleosome	c4r0e6	Transcription elongation factor SPT4	6j51	V
+nucleosome	c4r370	Chromatin elongation factor SPT5	6j51	W
+nucleosome	p62979	Ubiquitin-40S ribosomal protein S27a	6j99	L
+nucleosome	q8tek3	Histone-lysine N-methyltransferase, H3 lysine-79 specific	6j99	K
+nucleosome	q8tek3	Histone-lysine N-methyltransferase, H3 lysine-79 specific	6jm9	X
+nucleosome	q8tek3	Histone-lysine N-methyltransferase, H3 lysine-79 specific	6jma	X
+nucleosome	p0cg47	Polyubiquitin-B	6jma	Y
+nucleosome	p38144	ISWI chromatin-remodeling complex ATPase ISW1	6jyl	K
+nucleosome	p38144	ISWI chromatin-remodeling complex ATPase ISW1	6k1p	K
+nucleosome	q03164	Histone-lysine N-methyltransferase 2A	6kiu	K
+nucleosome	q15291	Retinoblastoma-binding protein 5	6kiu	N
+nucleosome	p61964	WD repeat-containing protein 5	6kiu	R
+nucleosome	q9ubl3	Set1/Ash2 histone methyltransferase complex subunit ASH2	6kiu	T
+nucleosome	p62979	Ubiquitin-40S ribosomal protein S27a	6kiu	O
+nucleosome	q03164	Histone-lysine N-methyltransferase 2A	6kiv	K
+nucleosome	q15291	Retinoblastoma-binding protein 5	6kiv	N
+nucleosome	p62979	Ubiquitin-40S ribosomal protein S27a	6kiv	O
+nucleosome	q9ubl3	Set1/Ash2 histone methyltransferase complex subunit ASH2	6kiv	T
+nucleosome	p61964	WD repeat-containing protein 5	6kiv	R
+nucleosome	q8nez4	Histone-lysine N-methyltransferase 2C	6kiw	K
+nucleosome	q15291	Retinoblastoma-binding protein 5	6kiw	N
+nucleosome	p62979	Ubiquitin-40S ribosomal protein S27a	6kiw	O
+nucleosome	p61964	WD repeat-containing protein 5	6kiw	R
+nucleosome	q9ubl3	Set1/Ash2 histone methyltransferase complex subunit ASH2	6kiw	T
+nucleosome	q15291	Retinoblastoma-binding protein 5	6kix	N
+nucleosome	q03164	Histone-lysine N-methyltransferase 2A	6kix	K
+nucleosome	p61964	WD repeat-containing protein 5	6kix	R
+nucleosome	q9ubl3	Set1/Ash2 histone methyltransferase complex subunit ASH2	6kix	T
+nucleosome	q15291	Retinoblastoma-binding protein 5	6kiz	N
+nucleosome	q03164	Histone-lysine N-methyltransferase 2A	6kiz	K
+nucleosome	p61964	WD repeat-containing protein 5	6kiz	R
+nucleosome	q9ubl3	Set1/Ash2 histone methyltransferase complex subunit ASH2	6kiz	T
+nucleosome	p32597	Nuclear protein STH1/NPS1	6kw3	W
+nucleosome	p32597	Nuclear protein STH1/NPS1	6kw3	J
+nucleosome	p32597	Nuclear protein STH1/NPS1	6kw3	Y
+nucleosome	q12406	Actin-related protein 7	6kw3	f
+nucleosome	p53330	Regulator of Ty1 transposition protein 102	6kw3	h
+nucleosome	p32832	Chromatin structure-remodeling complex subunit RSC7	6kw3	F
+nucleosome	p43609	Chromatin structure-remodeling complex protein RSC8	6kw3	H
+nucleosome	p43609	Chromatin structure-remodeling complex protein RSC8	6kw3	D
+nucleosome	q03124	Chromatin structure-remodeling complex subunit RSC9	6kw3	M
+nucleosome	p25632	Chromatin structure-remodeling complex protein RSC6	6kw3	I
+nucleosome	q06168	Chromatin structure-remodeling complex subunit SFH1	6kw3	G
+nucleosome	q07979	Chromatin structure-remodeling complex protein RSC58	6kw3	A
+nucleosome	q9urq5	High temperature lethal protein 1	6kw3	E
+nucleosome	p38781	Chromatin structure-remodeling complex protein RSC30	6kw3	C
+nucleosome	q06639	Chromatin structure-remodeling complex protein RSC3	6kw3	K
+nucleosome	q02206	Chromatin structure-remodeling complex subunit RSC4	6kw3	X
+nucleosome	q06488	Chromatin structure-remodeling complex subunit RSC2	6kw3	L
+nucleosome	q05123	Actin-like protein ARP9	6kw3	g
+nucleosome	q12406	Actin-related protein 7	6kw4	f
+nucleosome	p53330	Regulator of Ty1 transposition protein 102	6kw4	h
+nucleosome	p32832	Chromatin structure-remodeling complex subunit RSC7	6kw4	F
+nucleosome	p43609	Chromatin structure-remodeling complex protein RSC8	6kw4	H
+nucleosome	p43609	Chromatin structure-remodeling complex protein RSC8	6kw4	D
+nucleosome	q03124	Chromatin structure-remodeling complex subunit RSC9	6kw4	M
+nucleosome	p25632	Chromatin structure-remodeling complex protein RSC6	6kw4	I
+nucleosome	q06168	Chromatin structure-remodeling complex subunit SFH1	6kw4	G
+nucleosome	q07979	Chromatin structure-remodeling complex protein RSC58	6kw4	A
+nucleosome	p32597	Nuclear protein STH1/NPS1	6kw4	J
+nucleosome	p32597	Nuclear protein STH1/NPS1	6kw4	V
+nucleosome	p32597	Nuclear protein STH1/NPS1	6kw4	Y
+nucleosome	q9urq5	High temperature lethal protein 1	6kw4	E
+nucleosome	p38781	Chromatin structure-remodeling complex protein RSC30	6kw4	C
+nucleosome	q06639	Chromatin structure-remodeling complex protein RSC3	6kw4	K
+nucleosome	q02206	Chromatin structure-remodeling complex subunit RSC4	6kw4	X
+nucleosome	q06488	Chromatin structure-remodeling complex subunit RSC2	6kw4	L
+nucleosome	q05123	Actin-like protein ARP9	6kw4	g
+nucleosome	p32832	Chromatin structure-remodeling complex subunit RSC7	6kw5	F
+nucleosome	p43609	Chromatin structure-remodeling complex protein RSC8	6kw5	H
+nucleosome	p43609	Chromatin structure-remodeling complex protein RSC8	6kw5	D
+nucleosome	q03124	Chromatin structure-remodeling complex subunit RSC9	6kw5	M
+nucleosome	p25632	Chromatin structure-remodeling complex protein RSC6	6kw5	I
+nucleosome	q06168	Chromatin structure-remodeling complex subunit SFH1	6kw5	G
+nucleosome	q07979	Chromatin structure-remodeling complex protein RSC58	6kw5	A
+nucleosome	p32597	Nuclear protein STH1/NPS1	6kw5	J
+nucleosome	p32597	Nuclear protein STH1/NPS1	6kw5	P
+nucleosome	p32597	Nuclear protein STH1/NPS1	6kw5	Q
+nucleosome	q9urq5	High temperature lethal protein 1	6kw5	E
+nucleosome	p38781	Chromatin structure-remodeling complex protein RSC30	6kw5	C
+nucleosome	q06639	Chromatin structure-remodeling complex protein RSC3	6kw5	K
+nucleosome	q02206	Chromatin structure-remodeling complex subunit RSC4	6kw5	X
+nucleosome	q06488	Chromatin structure-remodeling complex subunit RSC2	6kw5	L
+nucleosome	q12406	Actin-related protein 7	6kw5	f
+nucleosome	p53330	Regulator of Ty1 transposition protein 102	6kw5	h
+nucleosome	q05123	Actin-like protein ARP9	6kw5	g
+nucleosome	p51532	Transcription activator BRG1	6ltj	I
+nucleosome	o96019	Actin-like protein 6A	6ltj	J
+nucleosome	p60709	Actin, cytoplasmic 1	6ltj	K
+nucleosome	o14497	AT-rich interactive domain-containing protein 1A	6ltj	L
+nucleosome	q12824	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily B member 1	6ltj	M
+nucleosome	q8taq2	SWI/SNF complex subunit SMARCC2	6ltj	N
+nucleosome	q8taq2	SWI/SNF complex subunit SMARCC2	6ltj	O
+nucleosome	q96gm5	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 1	6ltj	P
+nucleosome	q969g3	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1	6ltj	Q
+nucleosome	q92785	Zinc finger protein ubi-d4	6ltj	R
+nucleosome	q03188	Centromere protein C	6muo	K
+nucleosome	q03188	Centromere protein C	6muo	L
+nucleosome	q96h22	Centromere protein N	6muo	M
+nucleosome	q03188	Centromere protein C	6mup	K
+nucleosome	q03188	Centromere protein C	6mup	L
+nucleosome	q96h22	Centromere protein N	6mup	M
+nucleosome	q96h22	Centromere protein N	6mup	N
+nucleosome	o60264	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 5	6ne3	W
+nucleosome	q8tek3	Histone-lysine N-methyltransferase, H3 lysine-79 specific	6nj9	K
+nucleosome	j3qs39	Polyubiquitin-B	6nj9	L
+nucleosome	q8tek3	Histone-lysine N-methyltransferase, H3 lysine-79 specific	6nn6	K
+nucleosome	f5h388	Polyubiquitin-C	6nn6	L
+nucleosome	j3qs39	Polyubiquitin-B	6nog	L
+nucleosome	q8tek3	Histone-lysine N-methyltransferase, H3 lysine-79 specific	6nog	K
+nucleosome	q8tek3	Histone-lysine N-methyltransferase, H3 lysine-79 specific	6nqa	K
+nucleosome	p0cg48	Polyubiquitin-C	6nqa	L
+nucleosome	g0s676	Histone-lysine N-methyltransferase, H3 lysine-36 specific	6nzo	S
+nucleosome	q8tek3	Histone-lysine N-methyltransferase, H3 lysine-79 specific	6o96	K
+nucleosome	p0cg47	Polyubiquitin-B	6o96	L
+nucleosome	p54784	Origin recognition complex subunit 1	6om3	K
+nucleosome	p54784	Origin recognition complex subunit 1	6om3	L
+nucleosome	q9y6k1	DNA (cytosine-5)-methyltransferase 3A	6pa7	K
+nucleosome	q9y6k1	DNA (cytosine-5)-methyltransferase 3A	6pa7	P
+nucleosome	q9ubc3	DNA (cytosine-5)-methyltransferase 3B	6pa7	N
+nucleosome	q9ubc3	DNA (cytosine-5)-methyltransferase 3B	6pa7	S
+nucleosome	g0s9l5	Complex ATPase-like protein	6pwf	K
+nucleosome	q15291	Retinoblastoma-binding protein 5	6pwv	A
+nucleosome	p61964	WD repeat-containing protein 5	6pwv	B
+nucleosome	q03164	Histone-lysine N-methyltransferase 2A	6pwv	C
+nucleosome	q9c005	Protein dpy-30 homolog	6pwv	E
+nucleosome	q9c005	Protein dpy-30 homolog	6pwv	F
+nucleosome	q9ubl3	Set1/Ash2 histone methyltransferase complex subunit ASH2	6pwv	D
+nucleosome	q15291	Retinoblastoma-binding protein 5	6pww	A
+nucleosome	p61964	WD repeat-containing protein 5	6pww	B
+nucleosome	q03164	Histone-lysine N-methyltransferase 2A	6pww	C
+nucleosome	q15291	Retinoblastoma-binding protein 5	6pwx	A
+nucleosome	g0s676	Histone-lysine N-methyltransferase, H3 lysine-36 specific	6px3	S
+nucleosome	p35201	Inner kinetochore subunit MIF2	6qld	C
+nucleosome	q12262	Inner kinetochore subunit MCM16	6qld	H
+nucleosome	q12748	Inner kinetochore subunit CTF3	6qld	I
+nucleosome	p47167	Inner kinetochore subunit MCM22	6qld	K
+nucleosome	p38265	Inner kinetochore subunit IML3	6qld	L
+nucleosome	p38907	Inner kinetochore subunit CHL4	6qld	N
+nucleosome	q06675	Inner kinetochore subunit MCM21	6qld	O
+nucleosome	q02732	Inner kinetochore subunit CTF19	6qld	P
+nucleosome	p53298	Inner kinetochore subunit OKP1	6qld	Q
+nucleosome	p38313	Inner kinetochore subunit AME1	6qld	U
+nucleosome	q12493	Inner kinetochore subunit NKP1	6qld	Y
+nucleosome	q06162	Inner kinetochore subunit NKP2	6qld	Z
+nucleosome	q8nb78	Lysine-specific histone demethylase 1B	6r1u	K
+nucleosome	q49a26	Putative oxidoreductase GLYR1	6r1u	L
+nucleosome	q8nb78	Lysine-specific histone demethylase 1B	6r25	K
+nucleosome	q49a26	Putative oxidoreductase GLYR1	6r25	L
+nucleosome	q16531	DNA damage-binding protein 1	6r8y	K
+nucleosome	q92466	DNA damage-binding protein 2	6r8y	L
+nucleosome	q16531	DNA damage-binding protein 1	6r8z	K
+nucleosome	q92466	DNA damage-binding protein 2	6r8z	L
+nucleosome	q16531	DNA damage-binding protein 1	6r90	K
+nucleosome	q92466	DNA damage-binding protein 2	6r90	L
+nucleosome	q16531	DNA damage-binding protein 1	6r91	K
+nucleosome	q92466	DNA damage-binding protein 2	6r91	L
+nucleosome	q92466	DNA damage-binding protein 2	6r92	L
+nucleosome	q16531	DNA damage-binding protein 1	6r92	K
+nucleosome	p14350	Pro-Pol polyprotein	6rny	K
+nucleosome	p14350	Pro-Pol polyprotein	6rny	L
+nucleosome	p14350	Pro-Pol polyprotein	6rny	O
+nucleosome	p14350	Pro-Pol polyprotein	6rny	P
+nucleosome	q14839	Chromodomain-helicase-DNA-binding protein 4	6ryr	W
+nucleosome	q14839	Chromodomain-helicase-DNA-binding protein 4	6ryu	W
+nucleosome	q14839	Chromodomain-helicase-DNA-binding protein 4	6ryu	V
+nucleosome	o75475	PC4 and SFRS1-interacting protein	6s01	K
+nucleosome	q03188	Centromere protein C	6se6	V
+nucleosome	q03188	Centromere protein C	6see	V
+nucleosome	q03188	Centromere protein C	6sef	V
+nucleosome	p35716	Transcription factor SOX-11	6t7a	K
+nucleosome	p48431	Transcription factor SOX-2	6t7b	K
+nucleosome	p35716	Transcription factor SOX-11	6t7c	K
+nucleosome	p35716	Transcription factor SOX-11	6t7c	L
+nucleosome	p35716	Transcription factor SOX-11	6t7d	K
+nucleosome	p42212;q01860	Green fluorescent protein	6t90	K
+nucleosome	p48431	Transcription factor SOX-2	6t90	L
+nucleosome	p50102	Ubiquitin carboxyl-terminal hydrolase 8	6t9l	K
+nucleosome	q6wnk7	Transcription and mRNA export factor SUS1	6t9l	L
+nucleosome	q03067	SAGA-associated factor 11	6t9l	M
+nucleosome	p53165	SAGA-associated factor 73	6t9l	N
+nucleosome	p0cg48	Polyubiquitin-C	6t9l	O
+nucleosome	q06168	Chromatin structure-remodeling complex subunit SFH1	6tda	K
+nucleosome	p43609	Chromatin structure-remodeling complex protein RSC8	6tda	L
+nucleosome	p32832	Chromatin structure-remodeling complex subunit RSC7	6tda	M
+nucleosome	q03124	Chromatin structure-remodeling complex subunit RSC9	6tda	N
+nucleosome	p25632	Chromatin structure-remodeling complex protein RSC6	6tda	O
+nucleosome	q07979	Chromatin structure-remodeling complex protein RSC58	6tda	P
+nucleosome	q9urq5	High temperature lethal protein 1	6tda	Q
+nucleosome	q02206	Chromatin structure-remodeling complex subunit RSC4	6tda	R
+nucleosome	p32597	Nuclear protein STH1/NPS1	6tda	S
+nucleosome	q12406	Actin-related protein 7	6tda	T
+nucleosome	q05123	Actin-like protein ARP9	6tda	U
+nucleosome	p53330	Regulator of Ty1 transposition protein 102	6tda	V
+nucleosome	na	Unknown protein	6tda	X
+nucleosome	q6cly5	KLLA0E24487p	6ugm	K
+nucleosome	q6cit4	Histone-lysine N-methyltransferase, H3 lysine-4 specific	6ugm	M
+nucleosome	q6cxf3	KLLA0A08800p	6ugm	N
+nucleosome	q6crq4	KLLA0D07260p	6ugm	X
+nucleosome	q6ctq1	KLLA0C10945p	6ugm	L
+nucleosome	q6cpn6	KLLA0E03521p	6ugm	O
+nucleosome	q6cpn6	KLLA0E03521p	6ugm	P
+nucleosome	q6cly5	KLLA0E24487p	6uh5	K
+nucleosome	q6cit4	Histone-lysine N-methyltransferase, H3 lysine-4 specific	6uh5	M
+nucleosome	q6cxf3	KLLA0A08800p	6uh5	N
+nucleosome	p0cg47	Polyubiquitin-B	6uh5	Q
+nucleosome	q6crq4	KLLA0D07260p	6uh5	X
+nucleosome	q6ctq1	KLLA0C10945p	6uh5	L
+nucleosome	q6cpn6	KLLA0E03521p	6uh5	O
+nucleosome	q6cpn6	KLLA0E03521p	6uh5	P
+nucleosome	q9y5b9	FACT complex subunit SPT16	6upk	G
+nucleosome	q08945	FACT complex subunit SSRP1	6upk	H
+nucleosome	q9y5b9	FACT complex subunit SPT16	6upl	G
+nucleosome	q08945	FACT complex subunit SSRP1	6upl	H
+nucleosome	q9ugn5	Poly [ADP-ribose] polymerase 2	6usj	U
+nucleosome	q9ugn5	Poly [ADP-ribose] polymerase 2	6usj	V
+nucleosome	q12406	Actin-related protein 7	6uxw	P
+nucleosome	q05123	Actin-like protein ARP9	6uxw	Q
+nucleosome	p53330	Regulator of Ty1 transposition protein 102	6uxw	Z
+nucleosome	p22082	Transcription regulatory protein SNF2	6uxw	A
+nucleosome	p09547	SWI/SNF chromatin-remodeling complex subunit SWI1	6uxw	B
+nucleosome	p18480	SWI/SNF chromatin-remodeling complex subunit SNF5	6uxw	C
+nucleosome	p32591	SWI/SNF complex subunit SWI3	6uxw	D
+nucleosome	p32591	SWI/SNF complex subunit SWI3	6uxw	E
+nucleosome	p32591	SWI/SNF complex subunit SWI3	6uxw	F
+nucleosome	p32591	SWI/SNF complex subunit SWI3	6uxw	G
+nucleosome	p53628	Transcription regulatory protein SNF12	6uxw	H
+nucleosome	p18888	Transcription regulatory protein SNF6	6uxw	I
+nucleosome	na	Unknown protein	6uxw	J
+nucleosome	na	Unknown protein	6uxw	K
+nucleosome	na	Unknown protein	6uxw	L
+nucleosome	na	Unknown protein	6uxw	N
+nucleosome	na	Unknown protein	6uxw	O
+nucleosome	na	SWI/SNF global transcription activator complex subunit SWP82	6uxw	M
+nucleosome	q12406	Actin-related protein 7	6v92	A
+nucleosome	p32597	Nuclear protein STH1/NPS1	6v92	R
+nucleosome	q05123	Actin-like protein ARP9	6v92	B
+nucleosome	p53330	Regulator of Ty1 transposition protein 102	6v92	P
+nucleosome	q9urq5	High temperature lethal protein 1	6v92	C
+nucleosome	p38210	Chromatin structure-remodeling complex protein RSC14	6v92	D
+nucleosome	p32832	Chromatin structure-remodeling complex subunit RSC7	6v92	E
+nucleosome	q06488	Chromatin structure-remodeling complex subunit RSC2	6v92	F
+nucleosome	q06639	Chromatin structure-remodeling complex protein RSC3	6v92	G
+nucleosome	q02206	Chromatin structure-remodeling complex subunit RSC4	6v92	H
+nucleosome	p43609	Chromatin structure-remodeling complex protein RSC8	6v92	I
+nucleosome	p43609	Chromatin structure-remodeling complex protein RSC8	6v92	J
+nucleosome	p43609	Chromatin structure-remodeling complex protein RSC8	6v92	K
+nucleosome	p43609	Chromatin structure-remodeling complex protein RSC8	6v92	L
+nucleosome	p25632	Chromatin structure-remodeling complex protein RSC6	6v92	M
+nucleosome	q03124	Chromatin structure-remodeling complex subunit RSC9	6v92	N
+nucleosome	q07979	Chromatin structure-remodeling complex protein RSC58	6v92	O
+nucleosome	q06168	Chromatin structure-remodeling complex subunit SFH1	6v92	Q
+nucleosome	p38781	Chromatin structure-remodeling complex protein RSC30	6v92	S
+nucleosome	na	Unknown Protein	6v92	2
+nucleosome	na	Unknown Protein	6v92	3
+nucleosome	na	Unknown Protein	6v92	4
+nucleosome	na	Unknown Protein	6v92	5
+nucleosome	na	Uuknown Protein	6v92	6
+nucleosome	na	Unknown Protein	6v92	7
+nucleosome	p0cg48	Polyubiquitin-C	6ven	K
+nucleosome	p38123	COMPASS component SWD3	6ven	L
+nucleosome	p39706	COMPASS component SWD1	6ven	M
+nucleosome	p38827	Histone-lysine N-methyltransferase, H3 lysine-4 specific	6ven	N
+nucleosome	p43132	COMPASS component BRE2	6ven	O
+nucleosome	q03323	COMPASS component SDC1	6ven	P
+nucleosome	q03323	COMPASS component SDC1	6ven	Q
+nucleosome	q03012	COMPASS component SPP1	6ven	R
+nucleosome	o60341	Lysine-specific histone demethylase 1A	6vyp	M
+nucleosome	o60341	Lysine-specific histone demethylase 1A	6vyp	K
+nucleosome	q9ukl0	REST corepressor 1	6vyp	N
+nucleosome	q9ukl0	REST corepressor 1	6vyp	L
+nucleosome	p32597	Nuclear protein STH1/NPS1	6vz4	K
+nucleosome	q12406	Actin-related protein 7	6vz4	L
+nucleosome	q05123	Actin-like protein ARP9	6vz4	M
+nucleosome	p53330	Regulator of Ty1 transposition protein 102	6vz4	N
+nucleosome	q15291	Retinoblastoma-binding protein 5	6w5i	A
+nucleosome	p61964	WD repeat-containing protein 5	6w5i	B
+nucleosome	q03164	Histone-lysine N-methyltransferase 2A	6w5i	C
+nucleosome	q9ubl3	Set1/Ash2 histone methyltransferase complex subunit ASH2	6w5i	D
+nucleosome	q15291	Retinoblastoma-binding protein 5	6w5m	A
+nucleosome	p61964	WD repeat-containing protein 5	6w5m	B
+nucleosome	q03164	Histone-lysine N-methyltransferase 2A	6w5m	C
+nucleosome	q9ubl3	Set1/Ash2 histone methyltransferase complex subunit ASH2	6w5m	D
+nucleosome	q15291	Retinoblastoma-binding protein 5	6w5n	A
+nucleosome	p61964	WD repeat-containing protein 5	6w5n	B
+nucleosome	q03164	Histone-lysine N-methyltransferase 2A	6w5n	C
+nucleosome	q9ubl3	Set1/Ash2 histone methyltransferase complex subunit ASH2	6w5n	D
+nucleosome	p0cg48	Polyubiquitin-C	6wkr	T
+nucleosome	p0cg48	Polyubiquitin-C	6wkr	F
+nucleosome	q15022	Polycomb protein SUZ12	6wkr	A
+nucleosome	o75530	Polycomb protein EED	6wkr	L
+nucleosome	q09028	Histone-binding protein RBBP4	6wkr	N
+nucleosome	q15910	Histone-lysine N-methyltransferase EZH2	6wkr	C
+nucleosome	q92833	Protein Jumonji	6wkr	B
+nucleosome	q92833	Protein Jumonji	6wkr	E
+nucleosome	q6zn18	Zinc finger protein AEBP2	6wkr	P
+nucleosome	q9ugn5	Poly [ADP-ribose] polymerase 2	6x0n	P
+nucleosome	q9ugn5	Poly [ADP-ribose] polymerase 2	6x0n	R
+nucleosome	q8c6l5	Cyclic GMP-AMP synthase	6x59	K
+nucleosome	q8c6l5	Cyclic GMP-AMP synthase	6x5a	K
+nucleosome	q8c6l5	Cyclic GMP-AMP synthase	6xjd	K
+nucleosome	q8c6l5	Cyclic GMP-AMP synthase	6xjd	L
+nucleosome	q8n884	Cyclic GMP-AMP synthase	6y5d	K
+nucleosome	q8n884	Cyclic GMP-AMP synthase	6y5d	L
+nucleosome	q8n884	Cyclic GMP-AMP synthase	6y5e	K
+nucleosome	p42212;q01860	Green fluorescent protein	6yov	K
+nucleosome	p48431	Transcription factor SOX-2	6yov	L
+nucleosome	p53973	Histone deacetylase HDA1	6z6p	K
+nucleosome	p53973	Histone deacetylase HDA1	6z6p	L
+nucleosome	q06623	HDA1 complex subunit 3	6z6p	M
+nucleosome	q06629	HDA1 complex subunit 2	6z6p	N
+nucleosome	q86wj1	Chromodomain-helicase-DNA-binding protein 1-like	6zhx	K
+nucleosome	q86wj1	Chromodomain-helicase-DNA-binding protein 1-like	6zhx	L
+nucleosome	q86wj1	Chromodomain-helicase-DNA-binding protein 1-like	6zhy	K
+nucleosome	q8c6l5	Cyclic GMP-AMP synthase	7a08	a
+nucleosome	q15910	Histone-lysine N-methyltransferase EZH2	7at8	A
+nucleosome	q15022	Polycomb protein SUZ12	7at8	C
+nucleosome	q8tek3	Histone-lysine N-methyltransferase, H3 lysine-79 specific	7bwd	K
+nucleosome	p62979	Ubiquitin-40S ribosomal protein S27a	7bwd	L
+nucleosome	p62979	Ubiquitin-40S ribosomal protein S27a	7bwd	M
+nucleosome	o57392	CENP-C	7bxt	K
+nucleosome	o57392	CENP-C	7bxt	L
+nucleosome	q1t765	Centromere protein N	7bxt	M
+nucleosome	q1t765	Centromere protein N	7bxt	N
+nucleosome	o57393	CENP-C	7by0	K
+nucleosome	o57393	CENP-C	7by0	L
+nucleosome	q8n884	Cyclic GMP-AMP synthase	7c0m	K
+nucleosome	q8n884	Cyclic GMP-AMP synthase	7c0m	k
+nucleosome	q8n884	Cyclic GMP-AMP synthase	7ccq	K
+nucleosome	q8n884	Cyclic GMP-AMP synthase	7ccr	K
+nucleosome	q8n884	Cyclic GMP-AMP synthase	7ccr	V
+nucleosome	o96028	Histone-lysine N-methyltransferase NSD2	7cro	I
+nucleosome	q9bz95	Histone-lysine N-methyltransferase NSD3	7crp	I
+nucleosome	q9bz95	Histone-lysine N-methyltransferase NSD3	7crq	I
+nucleosome	q9bz95	Histone-lysine N-methyltransferase NSD3	7crq	L
+nucleosome	q9bz95	Histone-lysine N-methyltransferase NSD3	7crr	I
+nucleosome	q9nqr1	N-lysine methyltransferase KMT5A	7d1z	K
+nucleosome	q9nqr1	N-lysine methyltransferase KMT5A	7d20	K
+nucleosome	q8c6l5	Cyclic GMP-AMP synthase	7jo9	K
+nucleosome	q8c6l5	Cyclic GMP-AMP synthase	7joa	K
+nucleosome	p61077;a0a386in42	Ubiquitin-conjugating enzyme E2 D3	7jzv	A
+nucleosome	q99728	BRCA1-associated RING domain protein 1	7jzv	B
+nucleosome	na	scFv20	7k5x	M
+nucleosome	na	scFv20	7k5x	N
+nucleosome	na	scFv20	7k5y	M
+nucleosome	na	scFv20	7k5y	N
+nucleosome	na	scFv20	7k60	M
+nucleosome	na	scFv20	7k60	N
+nucleosome	na	scFv20	7k61	M
+nucleosome	na	scFv20	7k61	N
+nucleosome	na	scFv20	7k63	M
+nucleosome	na	scFv20	7k63	N
+nucleosome	na	gH1.10-ncH1.4	7k63	U
+nucleosome	q04089	Histone-lysine N-methyltransferase, H3 lysine-79 specific	7k6p	K
+nucleosome	p0cg48	Polyubiquitin-C	7k6p	L
+nucleosome	q04089	Histone-lysine N-methyltransferase, H3 lysine-79 specific	7k6q	K
+nucleosome	p0cg48	Polyubiquitin-C	7k6q	L
+nucleosome	na	Cse4	7k78	A
+nucleosome	na	Cse4	7k78	E
+nucleosome	na	scFv	7k78	K
+nucleosome	na	scFv	7k78	L
+nucleosome	p40969	Centromere DNA-binding protein complex CBF3 subunit B	7k7g	M

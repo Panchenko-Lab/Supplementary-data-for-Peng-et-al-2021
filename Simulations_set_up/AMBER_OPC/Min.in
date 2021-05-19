@@ -1,0 +1,13 @@
+Minimize
+ &cntrl
+  imin=1,
+  ntx=1,
+  irest=0,
+  maxcyc=20000,
+  ncyc=10000,
+  ntpr=100,
+  ntwx=0,
+  cut=10.0,
+ /
+
+10,000 steepest descent minimization and then for another 10,000 conjugate gradient minizations.
