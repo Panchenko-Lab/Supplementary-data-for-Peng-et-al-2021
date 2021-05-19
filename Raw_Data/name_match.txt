@@ -1,6 +1,0 @@
-1aoi modelA
-1eqz modelB
-ext2 modelC
-sym modelD
-shuxiang_ext_sym_amber_run1 ModelD_gromacs_run1
-shuxiang_ext_sym_amber_run2 ModelD_gromacs_run2
