@@ -1,4 +1,4 @@
-residue,mean_residence_time(ns),SE(ns)
+residue mean_residence_time(ns) SE(ns)
 1 2.336 0.166
 2 3.553 0.479
 3 3.331 0.408
