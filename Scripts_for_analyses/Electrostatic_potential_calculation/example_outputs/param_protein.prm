@@ -1,0 +1,15 @@
+scale=2.0
+perfil=70.0
+in(pdb,file="6r8z_bp_fix.pdb")
+in(siz,file="../parameters/charmm.siz")
+in(crg,file="../parameters/charmm.crg")
+indi=2.0
+exdi=80.0
+prbrad=1.4
+salt=0.15
+bndcon=2
+maxc=0.0001
+linit=800
+out(phi,file="phimap.cube", format=cube)
+energy(s,c,g)
+
