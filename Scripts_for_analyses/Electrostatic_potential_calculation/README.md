@@ -14,7 +14,7 @@ Some example outputs from calculations
 
 ## Required Program
 
-Delphi
+* Delphi
 
 ## Installation
 
