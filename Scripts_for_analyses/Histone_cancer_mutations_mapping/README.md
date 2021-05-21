@@ -10,7 +10,7 @@ Custom analysis scripts were written in Python3.
 
 ## Installation:
 
-Please refer to Cluster Omega installation instructions at http://www.clustal.org/omega/
+Please refer to Cluster Omega installation instructions at: http://www.clustal.org/omega/
 
 ### Require Python libraries
 
