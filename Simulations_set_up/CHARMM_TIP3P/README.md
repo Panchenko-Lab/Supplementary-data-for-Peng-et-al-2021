@@ -25,4 +25,5 @@ Sample script to run the simulations on CPU.
 
 ## Required Programs (used version)
 NAMD 2.12
+
 VMD 1.9.3
