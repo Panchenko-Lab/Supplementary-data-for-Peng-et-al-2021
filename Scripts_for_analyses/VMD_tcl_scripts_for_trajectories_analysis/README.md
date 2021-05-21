@@ -26,7 +26,7 @@ Rename chain IDs for Amber trajectories
  
 ## Required programs
 
-* VMD1.9.3
+* VMD 1.9.3
 
 ## Installation
 
