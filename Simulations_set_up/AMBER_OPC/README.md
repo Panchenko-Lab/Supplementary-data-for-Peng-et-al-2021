@@ -24,12 +24,12 @@ Simulation configration files for energy minimizations, equilibration, and produ
 
 ## sub_job.sh, sub_job_GPU.sh
 
-Sample script to run the simulations on CPU or GPU.
+Sample scripts to run the simulations on CPU or GPU.
 
 ## Required Progarms
-Amber(https://ambermd.org)
+Amber (https://ambermd.org)
 
-Simulations are performed with the version of Amber18.
+Simulations were performed with the version of Amber18.
 
 ## MD tjrajectories
 
