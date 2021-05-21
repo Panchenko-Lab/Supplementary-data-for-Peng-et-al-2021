@@ -1,6 +1,6 @@
-## scripts for mapping cancer mutations sites and protein binding sites onto histone sequences
+## Scripts for mapping cancer mutations sites and protein binding sites onto histone sequences
 
-Custom analysis scripts and pipelines were written in Python3.
+Custom analysis scripts were written in Python3.
 
 ## Required programs
 
@@ -27,7 +27,7 @@ Please refer to Cluster Omega installation instructions at http://www.clustal.or
 
 ## [examples_output](examples_output)
 
-Some example output from the scripts
+Some example output files from the scripts
 
 ## binding_mutation_combine.R
 
