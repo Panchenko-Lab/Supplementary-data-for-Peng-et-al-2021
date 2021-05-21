@@ -20,6 +20,6 @@ Some example outputs from calculations
 
 Please refer to Delphi installation instructions at http://compbio.clemson.edu/lab/delphisw/
 
-## Calculation time
+## Run time
 
 About 5min, depend on the protein size
