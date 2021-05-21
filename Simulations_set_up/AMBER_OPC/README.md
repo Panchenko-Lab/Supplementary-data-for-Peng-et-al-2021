@@ -1,4 +1,4 @@
-# Files for running simulations using AMBER forcefield and OPC water model.
+# Files for running simulations using AMBER forcefield and OPC water model
 
 ## [Nucleosome_model_PDBs](Nucleosome_model_PDBs)
 
