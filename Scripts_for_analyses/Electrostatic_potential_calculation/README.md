@@ -22,4 +22,4 @@ Please refer to Delphi installation instructions at http://compbio.clemson.edu/l
 
 ## Calculation time
 
-About 5min, dependend on the protein size
+About 5min, depend on the protein size
