@@ -31,7 +31,7 @@ Sample script to run the simulations on CPU.
 
 * VMD 1.9.3
 
-## MD tjrajectories
+## MD trajectories
 
 https://zenodo.org/record/4771270#.YKe3kC9h0RY
 
