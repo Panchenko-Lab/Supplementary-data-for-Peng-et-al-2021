@@ -12,7 +12,7 @@ These parameters are originally taken from: Khoury, G. A., Thompson, J. P., Smad
 
 ## gen_nucl.leap
 
-script to prepare the residue library and force field parameters for use with LEaP progarm.
+Script to prepare the residue library and force field parameters for use with LEaP progarm.
 To execuate the script:
 tleap -f gen_nucl
 
