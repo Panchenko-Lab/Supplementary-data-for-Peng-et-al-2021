@@ -1,7 +1,7 @@
 # files for calculating tail-DNA binding free energies using MM/GBSA approach
 
 ## mmpbsa.in
-input configuration file for binding energy calculation using amber mmgbsa tool
+input configuration file for binding energy calculation using Amber mmgbsa tool
 
 ## mmpbsa.leap
 
