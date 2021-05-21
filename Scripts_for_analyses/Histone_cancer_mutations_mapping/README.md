@@ -6,6 +6,7 @@ Custom analysis scripts and pipelines were written in Python3.
 
 * Python 3.7 or higher version
 * Cluster Omega
+* R
 
 ## Installation:
 
@@ -19,3 +20,15 @@ Please refer to Cluster Omega installation instructions at http://www.clustal.or
 * csv
 * re
 * os
+
+## run time
+
+1 min
+
+## [examples_output](examples_output)
+
+Some example output from the scripts
+
+## binding_mutation_combine.R
+
+Example R scripts for making plots
