@@ -4,7 +4,7 @@ This repository contains supplementary data for "Binding of regulatory proteins 
 You can browse the following folders:
 1. [Raw_Data](Raw_Data): all the raw data
 2. [Simulations_set_up](Simulations_set_up): scripts and parameter files for running simulation
-3. [Scripts_for_analyses](Scripts_for_analyses): scripts for MD trajectory analysis 
+3. [Scripts_for_analyses](Scripts_for_analyses): scripts for analysis 
 
 MD Trajectories are archived at: 
 https://zenodo.org/deposit/4771270
