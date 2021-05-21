@@ -21,7 +21,7 @@ Some example outputs
 
 ## Required Progarms
 
-Amber(https://ambermd.org)
+Amber (https://ambermd.org)
 
 The version of Amber18 was used.
 
