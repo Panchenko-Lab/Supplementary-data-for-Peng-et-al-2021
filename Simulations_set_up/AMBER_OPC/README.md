@@ -15,6 +15,7 @@ These parameters are originally taken from: Khoury, G. A., Thompson, J. P., Smad
 Script to prepare the residue library and force field parameters for use with LEaP progarm.
 
 To execuate the script:
+
 tleap -f gen_nucl
 
 ## Min.in, Equil_v.in, Equil_pt.in, Prod.in
