@@ -27,3 +27,7 @@ Sample script to run the simulations on CPU.
 NAMD 2.12
 
 VMD 1.9.3
+
+## MD tjrajectories
+
+MD Trajectories are archived at: https://zenodo.org/deposit/4771270
