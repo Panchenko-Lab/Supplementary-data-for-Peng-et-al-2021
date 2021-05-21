@@ -31,7 +31,7 @@ Amber (https://ambermd.org)
 
 Simulations were performed with the version of Amber18.
 
-## MD tjrajectories
+## MD trajectories
 
 https://zenodo.org/record/4771270#.YKe3kC9h0RY
 
