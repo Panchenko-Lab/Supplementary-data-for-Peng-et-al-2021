@@ -1,11 +1,13 @@
-# scripts for calculating tail residence time on DNA
+# Scripts for calculating tail residence time on DNA
 Custom pthyon scripts were in Python 3
 
 ## Full_tail_residence_time.py
 
-Custom pthyon script for Full_tail_residence_time.py
+Custom pthyon script for calculation full tail residence time on DNA
 
 ## Tail_residue_residence_time.py
+
+Custom pthyon script for calculation individual tail residue residence time on DNA
 
  
 ## Required programs
@@ -21,12 +23,12 @@ Custom pthyon script for Full_tail_residence_time.py
 
 ## Example inputs
 
-Some example input files are provided at [Raw_Data/Tail_DNA_binding_interface_overlap](https://github.com/yunhuip/Supplementary-data-for-Peng-et-al-2021/tree/main/Raw_Data/Tail_DNA_binding_interface_overlap)
+Some example input files are provided at [Raw_Data/Tail_DNA_contacts_per_tail_residue](https://github.com/yunhuip/Supplementary-data-for-Peng-et-al-2021/tree/main/Raw_Data/Tail_DNA_contacts_per_tail_residue)
  
 
 ## Example outputs
 
-Some example output files are provided at [Raw_Data/Tail_DNA_binding_interface_overlap](https://github.com/yunhuip/Supplementary-data-for-Peng-et-al-2021/tree/main/Raw_Data/Tail_DNA_binding_interface_overlap)
+Some example output files are provided at [Raw_Data/Tail_residence_time](https://github.com/yunhuip/Supplementary-data-for-Peng-et-al-2021/tree/main/Raw_Data/Tail_residence_time)
 
 
 
