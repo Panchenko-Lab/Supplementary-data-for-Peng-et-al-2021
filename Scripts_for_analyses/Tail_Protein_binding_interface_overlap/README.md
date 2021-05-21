@@ -17,10 +17,23 @@ Sample R scripts for making plots
  
 ## Required programs
 
-* VMD
+* VMD1.9.3
 * R
 * Python3
+
+### Required libraries
+
+* pandas
+* csv
+* collections
+* operator
 
 ## Example outputs
 
 Some example output files are provided at [Raw_Data/Tail_DNA_binding_interface_overlap](https://github.com/yunhuip/Supplementary-data-for-Peng-et-al-2021/tree/main/Raw_Data/Tail_DNA_binding_interface_overlap)
+
+## Installation
+
+Please refer to the installation guide for VMD at https://www.ks.uiuc.edu/Research/vmd/current/ig/ig.html
+
+
