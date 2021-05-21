@@ -18,7 +18,7 @@ Some example outputs from calculations
 
 ## Installation
 
-Please refer to Delphi installation instructions at http://compbio.clemson.edu/lab/delphisw/
+Please refer to Delphi installation instructions at: http://compbio.clemson.edu/lab/delphisw/.
 
 ## Run time
 
