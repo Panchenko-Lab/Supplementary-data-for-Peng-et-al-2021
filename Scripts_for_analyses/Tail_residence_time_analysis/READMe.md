@@ -23,12 +23,12 @@ Custom pthyon script for calculating individual tail residue residence time on D
 
 ## Example inputs
 
-Some example input files are provided at [Raw_Data/Tail_DNA_contacts_per_tail_residue](https://github.com/yunhuip/Supplementary-data-for-Peng-et-al-2021/tree/main/Raw_Data/Tail_DNA_contacts_per_tail_residue)
+Some example input files are provided at: [Raw_Data/Tail_DNA_contacts_per_tail_residue](https://github.com/yunhuip/Supplementary-data-for-Peng-et-al-2021/tree/main/Raw_Data/Tail_DNA_contacts_per_tail_residue)
  
 
 ## Example outputs
 
-Some example output files are provided at [Raw_Data/Tail_residence_time](https://github.com/yunhuip/Supplementary-data-for-Peng-et-al-2021/tree/main/Raw_Data/Tail_residence_time)
+Some example output files are provided at: [Raw_Data/Tail_residence_time](https://github.com/yunhuip/Supplementary-data-for-Peng-et-al-2021/tree/main/Raw_Data/Tail_residence_time)
 
 
 
