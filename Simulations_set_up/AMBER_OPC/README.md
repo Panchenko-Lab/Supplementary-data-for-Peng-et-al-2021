@@ -26,6 +26,7 @@ Sample script to run the simulations on CPU or GPU.
 
 ## Required Progarms
 Amber(https://ambermd.org)
+
 Simulations are performed with version of Amber18.
 
 ## MD tjrajectories
