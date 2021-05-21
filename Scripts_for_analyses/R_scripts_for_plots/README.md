@@ -5,7 +5,7 @@ All the raw data for making the plots are provided in [Raw_data](https://github.
 
 * R
 
-### Require R libraries
+### Required R libraries
 
 * ggplot2
 * tidyverse
