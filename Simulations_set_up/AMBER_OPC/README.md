@@ -10,7 +10,7 @@ Different nucleosome models used for simulations
 
 These parameters are originally taken from: Khoury, G. A., Thompson, J. P., Smadbeck, J., Kieslich, C. A. & Floudas, C. A. Forcefield_PTM: Ab Initio Charge and AMBER Forcefield Parameters for Frequently Occurring Post-Translational Modifications. J Chem Theory Comput 9, 5653-5674, doi:10.1021/ct400556v (2013).
 
-## gen_nucl 
+## gen_nucl.leap
 
 script to prepare the residue library and force field parameters for use with LEaP progarm.
 To execuate the script:
