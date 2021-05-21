@@ -35,6 +35,6 @@ Some example output files are provided at [Raw_Data/Tail_DNA_binding_interface_o
 
 ## Installation
 
-Please refer to the installation guide for VMD at https://www.ks.uiuc.edu/Research/vmd/current/ig/ig.html
+Please refer to the installation guide for VMD at: https://www.ks.uiuc.edu/Research/vmd/current/ig/ig.html
 
 
