@@ -31,7 +31,7 @@ Sample R scripts for making plots
 
 ## Example outputs
 
-Some example output files are provided at [Raw_Data/Tail_DNA_binding_interface_overlap](https://github.com/yunhuip/Supplementary-data-for-Peng-et-al-2021/tree/main/Raw_Data/Tail_DNA_binding_interface_overlap)
+Some example output files are provided at: [Raw_Data/Tail_DNA_binding_interface_overlap](https://github.com/yunhuip/Supplementary-data-for-Peng-et-al-2021/tree/main/Raw_Data/Tail_DNA_binding_interface_overlap)
 
 ## Installation
 
