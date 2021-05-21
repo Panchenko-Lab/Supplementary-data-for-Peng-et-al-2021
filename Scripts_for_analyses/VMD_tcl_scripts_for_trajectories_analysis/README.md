@@ -20,7 +20,7 @@ Analyze secondary structure of each histone tail residues
 
 Get the last frame from each simulation runs
 
-###  rename_chainID_modelA.tcl, rename_chainID_modelA.tcl, rename_chainID_modelA.tcl, rename_chainID_modelA.tcl, rename_chainID_modelA.tcl
+###  rename_chainID_modelA.tcl, rename_chainID_modelB.tcl, rename_chainID_modelC.tcl, rename_chainID_modelA.tcl
 
 Rename chain IDs for Amber trajectories
  
@@ -30,7 +30,7 @@ Rename chain IDs for Amber trajectories
 
 ## Installation
 
-Please refer to the installation guide for VMD at https://www.ks.uiuc.edu/Research/vmd/current/ig/ig.html
+Please refer to the installation guide for VMD at: https://www.ks.uiuc.edu/Research/vmd/current/ig/ig.html
 
 ## Example output
 
