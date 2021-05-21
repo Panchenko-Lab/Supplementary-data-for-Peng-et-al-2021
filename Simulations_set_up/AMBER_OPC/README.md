@@ -31,4 +31,6 @@ Simulations are performed with the version of Amber18.
 
 ## MD tjrajectories
 
-MD Trajectories are archived at: https://zenodo.org/deposit/4771270
+https://zenodo.org/record/4771270#.YKe3kC9h0RY
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4771270.svg)](https://doi.org/10.5281/zenodo.4771270)
