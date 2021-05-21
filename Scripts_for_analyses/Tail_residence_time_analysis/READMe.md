@@ -1,13 +1,13 @@
 # Scripts for calculating tail residence time on DNA
-Custom pthyon scripts were in Python 3
+Custom pthyon scripts were written in Python 3
 
 ## Full_tail_residence_time.py
 
-Custom pthyon script for calculation full tail residence time on DNA
+Custom pthyon script for calculating full tail residence time on DNA
 
 ## Tail_residue_residence_time.py
 
-Custom pthyon script for calculation individual tail residue residence time on DNA
+Custom pthyon script for calculating individual tail residue residence time on DNA
 
  
 ## Required programs
