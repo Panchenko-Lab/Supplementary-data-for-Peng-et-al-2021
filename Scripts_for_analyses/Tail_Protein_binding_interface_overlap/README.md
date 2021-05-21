@@ -1,6 +1,7 @@
-# scripts for calculating DNA binding interface overlap ratio between histone tails and binding proteins
+# Scripts for calculating DNA binding interface overlap ratio between histone tails and binding proteins
 
 ## BP_DNA_contacts.tcl
+
 Custom TCL scripts for calculating partner-DNA contacts number per DNA basepair in PDB surtcures using VMD
 
 To execute the scripts:
