@@ -1,4 +1,4 @@
-# scripts for calculating electrostatic potentials
+# Scripts for calculating electrostatic potentials
 
 ## delphi_param.prm
 
@@ -14,7 +14,7 @@ Some example outputs from calculations
 
 ## Required Program
 
-* Delphi
+* Delphi8.0
 
 ## Installation
 
