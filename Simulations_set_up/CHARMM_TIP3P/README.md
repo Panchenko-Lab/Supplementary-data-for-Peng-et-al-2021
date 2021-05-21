@@ -10,8 +10,10 @@ Topology and parameter files used for perpraing MD files.
 CHARMM36m FF used for protein and CHARMM36 FF ued for DNA 
 
 ## psfgen_nucl.tcl 
-script to prepare the MD files for simulations using psfgen in VMD.
+Script to prepare the MD files for simulations using psfgen in VMD.
+
 To execuate the script:
+
 vmd -e psfgen_nucl.tcl 
 
 ## [example_output](example_output)
@@ -24,9 +26,10 @@ Simulation configration files for energy minimizations, equilibration, and produ
 Sample script to run the simulations on CPU.
 
 ## Required Programs (used version)
-NAMD 2.12
 
-VMD 1.9.3
+* NAMD 2.12
+
+* VMD 1.9.3
 
 ## MD tjrajectories
 
