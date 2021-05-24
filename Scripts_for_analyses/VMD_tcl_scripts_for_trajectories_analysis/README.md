@@ -34,7 +34,7 @@ Please refer to the installation guide for VMD at: https://www.ks.uiuc.edu/Resea
 
 ## Example output
 
-Some example output files are provided at: [Raw_Data](https://github.com/yunhuip/Supplementary-data-for-Peng-et-al-2021/tree/main/Raw_Data)
+Some example output files are provided at: [Source_Data](https://github.com/yunhuip/Supplementary-data-for-Peng-et-al-2021/tree/main/Source_Data)
 
 ## Running time
 
