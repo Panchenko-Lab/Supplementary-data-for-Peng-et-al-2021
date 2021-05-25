@@ -34,6 +34,6 @@ Simulations were performed with the version of Amber18.
 ## MD trajectories
 
 MD Trajectories are archived at: 
-https://zenodo.org/record/4780649#.YKu7Ny9h0mI
+https://doi.org/10.5281/zenodo.4771269
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4780649.svg)](https://doi.org/10.5281/zenodo.4780649)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4771269.svg)](https://doi.org/10.5281/zenodo.4771269)
