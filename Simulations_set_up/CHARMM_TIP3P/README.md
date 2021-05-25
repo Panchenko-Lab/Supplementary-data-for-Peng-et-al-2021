@@ -34,7 +34,6 @@ Sample script to run the simulations on CPU.
 ## MD trajectories
 
 MD Trajectories are archived at: 
+https://doi.org/10.5281/zenodo.4771269
 
-https://zenodo.org/record/4780649#.YKu7Ny9h0mI
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4780649.svg)](https://doi.org/10.5281/zenodo.4780649)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4771269.svg)](https://doi.org/10.5281/zenodo.4771269)
