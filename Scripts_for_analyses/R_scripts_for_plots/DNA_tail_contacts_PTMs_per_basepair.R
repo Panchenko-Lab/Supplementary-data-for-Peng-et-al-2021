@@ -114,9 +114,9 @@ mean45 <- colMeans(df4_half[(1400+750*3):(1400+750*4),])
 
 ## calculate standard error
 sderr1 <- colSds(rbind(mean11,mean12,mean13,mean14,mean15))/sqrt(5)
-sderr2 <- colSds(rbind(mean21,mean22,mean23,mean24,mean15))/sqrt(5)
-sderr3 <- colSds(rbind(mean31,mean32,mean33,mean34,mean15))/sqrt(5)
-sderr4 <- colSds(rbind(mean41,mean42,mean43,mean44,mean15))/sqrt(5)
+sderr2 <- colSds(rbind(mean21,mean22,mean23,mean24,mean25))/sqrt(5)
+sderr3 <- colSds(rbind(mean31,mean32,mean33,mean34,mean35))/sqrt(5)
+sderr4 <- colSds(rbind(mean41,mean42,mean43,mean44,mean45))/sqrt(5)
 
 ## amke plots
 png(file="DNA_tail_contacts_PTMs_per_basepair.png",width=10,height=6,units="in",res=300)
